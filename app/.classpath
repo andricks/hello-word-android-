@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="lib" path="build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/merged_java_res/debug/base.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/project_dex_archive/debug/out/ca8eeeb9e20da3f53583ea40461071e5f0ee95cd674b3511b8d1a21b00b1f1a7_0.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/project_dex_archive/debug/out/ca8eeeb9e20da3f53583ea40461071e5f0ee95cd674b3511b8d1a21b00b1f1a7_1.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/project_dex_archive/debug/out/ca8eeeb9e20da3f53583ea40461071e5f0ee95cd674b3511b8d1a21b00b1f1a7_2.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/project_dex_archive/debug/out/ca8eeeb9e20da3f53583ea40461071e5f0ee95cd674b3511b8d1a21b00b1f1a7_3.jar"/>
+	<classpathentry kind="output" path="build/intermediates/javac/debug/classes"/>
+</classpath>
